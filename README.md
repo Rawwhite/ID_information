@@ -10,6 +10,6 @@
 
   （当时刚接触代码整的花里胡哨的，你们没必要像我这么骚.../汗）
   
-  ![图1](%E5%9B%BE1.png)
+  ![图1]([https://github.com/Rawwhite/ID_information/raw/master/%E5%9B%BE1.png)
 
 <font color="#5698c3">注：idtoad.csv是任务需要的文件（版本比较久，可能有些信息没更新），完成后将py源文件通过各种方式发我</font>
